@@ -4,21 +4,29 @@
   
   ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white) 
   ![Education](https://img.shields.io/badge/Student-PICT_Pune-blue?style=for-the-badge&logo=academic)
+  ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
   
-  Running **`./career --verbose`** ...
+  Running **`./career --verbose --offensive-security`** ...
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 User Profile: `fusion1110`
 
-I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets.
-
-* 🔭 **Interests:** Offensive Security, Hardware Hacking, and Embedded Systems[cite: 9, 11].
-* 🛠️ **Current Mode:** Writing low-level C/C++ and messing with HID emulation just for fun[cite: 8, 22].
-* 🐧 **OS of Choice:** I break things on Arch and fix them on Debian[cite: 10].
-* ⚡ **Fun fact:** I built my own Home NAS because "the cloud" is just someone else's computer[cite: 29].
----
+```json
+{
+  "user": "Krish Gulati",
+  "status": "Final Year IT Undergrad @ PICT",
+  "interests": [
+    "Offensive Security", 
+    "Hardware Hacking", 
+    "Low-Level Engineering",
+    "Linux Kernels"
+  ],
+  "current_focus": "Analyzing packets & soldering ESP32s",
+  "os": "Arch Linux (I break it so I can fix it)",
+  "fun_fact": "Built a Home NAS because 'the cloud' is just someone else's computer."
+}
 
 ### 🛠️ Tech Stack & Tools
 
