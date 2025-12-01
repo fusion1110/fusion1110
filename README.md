@@ -12,13 +12,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a final-year Information Technology student at **PICT, Pune**[cite: 4], with a deep passion for **offensive security, embedded systems, and hardware hacking**.
+I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets.
 
-* [cite_start]🔭 I’m currently working on **ESP32-based intrusion detection systems** [cite: 17] [cite_start]and **Android Mesh Networks**[cite: 24].
-* 👯 I’m looking to collaborate on **Open Source Security Tools** and **Penetration Testing Projects**.
-* [cite_start]🤝 I actively contribute to the community as the **Vice Chairperson of PICT Cybercell**[cite: 37].
-* [cite_start]⚡ **Fun fact:** I built my own Home NAS using a Raspberry Pi! [cite: 29]
-
+* 🔭 **Interests:** Offensive Security, Hardware Hacking, and Embedded Systems[cite: 9, 11].
+* 🛠️ **Current Mode:** Writing low-level C/C++ and messing with HID emulation just for fun[cite: 8, 22].
+* 🐧 **OS of Choice:** I break things on Arch and fix them on Debian[cite: 10].
+* ⚡ **Fun fact:** I built my own Home NAS because "the cloud" is just someone else's computer[cite: 29].
 ---
 
 ### 🛠️ Tech Stack & Tools
