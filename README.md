@@ -12,25 +12,24 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year Information Technology student at **PICT, Pune**, with a deep passion for **offensive security, embedded systems, and hardware hacking**. 
+[cite_start]I am a final-year Information Technology student at **PICT, Pune**[cite: 4], with a deep passion for **offensive security, embedded systems, and hardware hacking**.
 
-* 🔭 I’m currently working on **ESP32-based intrusion detection systems** and **Android Mesh Networks**.
-* 💼 I have experience as an **App Developer Intern** at Scriptlanes.
+* [cite_start]🔭 I’m currently working on **ESP32-based intrusion detection systems** [cite: 17] [cite_start]and **Android Mesh Networks**[cite: 24].
 * 👯 I’m looking to collaborate on **Open Source Security Tools** and **Penetration Testing Projects**.
-* 🤝 I actively contribute to the community as the **Vice Chairperson of PICT Cybercell**.
-* ⚡ **Fun fact:** I built my own Home NAS using a Raspberry Pi!
+* [cite_start]🤝 I actively contribute to the community as the **Vice Chairperson of PICT Cybercell**[cite: 37].
+* [cite_start]⚡ **Fun fact:** I built my own Home NAS using a Raspberry Pi! [cite: 29]
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cybersecurity & Hardware**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -51,10 +50,10 @@ I am a final-year Information Technology student at **PICT, Pune**, with a deep 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SentryMesh** | An **Offline IDS** using ESP-NOW mesh that tracks 802.11 probe requests to flag unknown devices in real-time. | `ESP32` `C++` `Networking` |
-| **SecureMeshConnect** | A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. | `Java` `Android SDK` `Cryptography` |
-| **ESP32 HID Emulator** | A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. | `C++` `HID` `Penetration Testing` |
-| **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault. | `Raspberry Pi` `Linux` `OMV` |
+| **SentryMesh** | [cite_start]An **Offline IDS** using ESP-NOW mesh that tracks 802.11 probe requests to flag unknown devices in real-time. [cite: 17, 18] | `ESP32` `C++` `Networking` |
+| **SecureMeshConnect** | [cite_start]A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. [cite: 24, 27] | `Java` `Android SDK` `Cryptography` |
+| **ESP32 HID Emulator** | [cite_start]A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. [cite: 19, 22] | `C++` `HID` `Penetration Testing` |
+| **Home NAS** | [cite_start]A centralized storage & media server with automated backups built on OpenMediaVault. [cite: 29, 30] | `Raspberry Pi` `Linux` `OMV` |
 
 ---
 
@@ -71,18 +70,10 @@ I am a final-year Information Technology student at **PICT, Pune**, with a deep 
 
 ---
 
-### 🏆 Contributions & Leadership
-
-* **Vice Chairperson, PICT Cybercell:** Mentored a 15-member team and led cybersecurity workshops for 400+ participants.
-* **Open Source:** Contributed to **Xournal++** by fixing a critical Windows C++ bug affecting 200k+ users.
-* **TEDxPICT:** Head of Operations (2025).
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krish-gulati" target="_blank">
+  <a href="https://www.linkedin.com/in/krish-gulati](https://www.linkedin.com/in/krish-gulati-560997276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:reach.krishgulati@gmail.com">
