@@ -13,7 +13,6 @@
 
 ### 👨‍💻 User Profile: `fusion1110`
 
-```json
 {
   "user": "Krish Gulati",
   "status": "Final Year IT Undergrad @ PICT",
