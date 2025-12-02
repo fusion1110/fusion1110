@@ -1,29 +1,29 @@
-# Hi there, I'm Krish Gulati! 👋
-
 <div align="center">
   
+  <img src="https://media.giphy.com/media/eIm657DwcItz1eDYbO/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+
+  <br />
+  
+  # Hi there, I'm Krish Gulati! 👋
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...;Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
   ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white) 
   ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
-  
-  Running **`./career --verbose --offensive-security`** ...
+
 </div>
 
+---
 
-### User Profile: `fusion1110`
+### 👨‍💻 User Profile: `fusion1110`
 
-{
-  "user": "Krish Gulati",
-  "status": "Final Year IT Undergrad",
-  "interests": [
-    "Offensive Security", 
-    "Hardware Hacking", 
-    "Low-Level Engineering",
-    "Linux Kernels"
-  ],
-  "current_focus": "Analyzing packets & soldering ESP32s",
-  "os": "Arch Linux (I break it so I can fix it)",
-  "fun_fact": "Built a Home NAS because 'the cloud' is just someone else's computer."
-}
+```bash
+krish@archlinux:~$ cat profile.json
+```
 
 ### 🛠️ Tech Stack & Tools
 
@@ -54,10 +54,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SentryMesh** | [cite_start]An **Offline IDS** using ESP-NOW mesh that tracks 802.11 probe requests to flag unknown devices in real-time. [cite: 17, 18] | `ESP32` `C++` `Networking` |
-| **SecureMeshConnect** | [cite_start]A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. [cite: 24, 27] | `Java` `Android SDK` `Cryptography` |
-| **ESP32 HID Emulator** | [cite_start]A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. [cite: 19, 22] | `C++` `HID` `Penetration Testing` |
-| **Home NAS** | [cite_start]A centralized storage & media server with automated backups built on OpenMediaVault. [cite: 29, 30] | `Raspberry Pi` `Linux` `OMV` |
+| **SentryMesh** | An **Offline IDS** using ESP-NOW mesh that tracks 802.11 probe requests to flag unknown devices in real-time. | `ESP32` `C++` `Networking` |
+| **SecureMeshConnect** | A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. | `Java` `Android SDK` `Cryptography` |
+| **ESP32 HID Emulator** | A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. | `C++` `HID` `Penetration Testing` |
+| **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault.| `Raspberry Pi` `Linux` `OMV` |
 
 ---
 
