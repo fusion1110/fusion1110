@@ -9,7 +9,7 @@
 </div>
 
 
-### 👨‍💻 User Profile: `fusion1110`
+### User Profile: `fusion1110`
 
 {
   "user": "Krish Gulati",
@@ -50,7 +50,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -74,7 +74,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-gulati](https://www.linkedin.com/in/krish-gulati-560997276/" target="_blank">
