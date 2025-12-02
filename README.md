@@ -1,33 +1,43 @@
 <div align="center">
   
- 
-
-  <br />
-  
-  # Hi there, I'm Krish Gulati! 👋
+  <h1 align="center">Hi there, I'm Krish Gulati! 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...; Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...;Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white) 
+  ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
 ---
 
-### 👨‍💻 User Profile: `fusion1110`
+### 👨‍💻 My Digital Sandbox
 
-```bash
-krish@archlinux:~$ cat profile.json
-```
+I'm an engineering student obsessed with where **Cybersecurity** meets custom **Hardware**. I live in the low-level trenches, focusing on breaking things to understand how they work (and then rebuilding them securely).
 
+* 🔭 **In Progress:** Wrangling wireless protocols for **SentryMesh** and building encrypted networks (**SecureMeshConnect**).
+* 🎯 **Specializing In:** **Red Teaming**, **Kernel Development**, and making life miserable for poorly secured **IoT** devices.
+* 🐧 **Home Base:** Arch (BTW!)
+* ⚡ **Fun fact:** Building my own home-lab cloud—because the real cloud is just someone else's expensive computer.
+---
+
+### 🚀 Digital Creations & Hardware Havoc
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **SentryMesh** | The neighborhood watch program for your Wi-Fi, built on an ESP-NOW mesh. **It flags unknowns and tells them to get off its lawn.** | `ESP32` `C++` `Networking` |
+| **SecureMeshConnect** | When the cell towers drop, this encrypted, off-grid Android mesh network keeps the signal flowing. **It's the ultimate digital bunker.** | `Java` `Android SDK` `Cryptography` |
+| **ESP32 HID Emulator** | A tiny, innocent-looking USB device that acts like a human who only types malicious code. **The ultimate digital prankster (for security testing).** | `C++` `HID` `Penetration Testing` |
+| **Home NAS** | A centralized server built on a Raspberry Pi and OMV. **Where data goes to hibernate and never get lost.** | `Raspberry Pi` `Linux` `OMV` |
 ### 🛠️ Tech Stack & Tools
 
-**Languages**
+<div align="center">
+
+**Languages**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -35,29 +45,30 @@ krish@archlinux:~$ cat profile.json
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cybersecurity & Hardware**
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+**Cybersecurity & Hardware**<br>
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-**Dev Tools**
+**Dev Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+</div>
+
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **SentryMesh** | An **Offline IDS** using ESP-NOW mesh that tracks 802.11 probe requests to flag unknown devices in real-time. | `ESP32` `C++` `Networking` |
 | **SecureMeshConnect** | A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. | `Java` `Android SDK` `Cryptography` |
 | **ESP32 HID Emulator** | A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. | `C++` `HID` `Penetration Testing` |
-| **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault.| `Raspberry Pi` `Linux` `OMV` |
+| **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault. | `Raspberry Pi` `Linux` `OMV` |
 
 ---
 
@@ -74,10 +85,10 @@ krish@archlinux:~$ cat profile.json
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krish-gulati](https://www.linkedin.com/in/krish-gulati-560997276/" target="_blank">
+  <a href="https://www.linkedin.com/in/krish-gulati-560997276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:reach.krishgulati@gmail.com">
