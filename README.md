@@ -3,19 +3,17 @@
 <div align="center">
   
   ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white) 
-  ![Education](https://img.shields.io/badge/Student-PICT_Pune-blue?style=for-the-badge&logo=academic)
   ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
   
   Running **`./career --verbose --offensive-security`** ...
 </div>
 
----
 
 ### 👨‍💻 User Profile: `fusion1110`
 
 {
   "user": "Krish Gulati",
-  "status": "Final Year IT Undergrad @ PICT",
+  "status": "Final Year IT Undergrad",
   "interests": [
     "Offensive Security", 
     "Hardware Hacking", 
