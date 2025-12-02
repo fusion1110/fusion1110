@@ -4,19 +4,22 @@
 
   <br/>
 
-  ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white) 
   ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
+
 ---
+
 ### About Me
 
-I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets. 
+I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets.
 
 * **Interests:** Offensive Security, Hardware Hacking, Linux, and Low-Level Engineering.
 * **Current Mode:** Writing C/C++ that talks directly to hardware and messing with HID emulation.
 * **OS of Choice:** I break things on Arch just to see how they work.
 * **Fun fact:** I built my own Home NAS because "the cloud" is just someone else's computer.
+
 ---
 
 ### Tech Stack & Tools
@@ -31,12 +34,16 @@ I'm a final-year IT undergrad who loves exploring the chaotic space where **soft
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+<br/>
+
 **Cybersecurity & Hardware**<br>
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+<br/>
 
 **Dev Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -56,7 +63,6 @@ I'm a final-year IT undergrad who loves exploring the chaotic space where **soft
 | **ESP32 HID Emulator** | A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. | `C++` `HID` `Penetration Testing` |
 | **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault. | `Raspberry Pi` `Linux` `OMV` |
 
----
 ---
 
 ### GitHub Stats
