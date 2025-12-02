@@ -2,10 +2,6 @@
   
   <h1 align="center">Hi there, I'm Krish Gulati! 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...;Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
-  </a>
-
   <br/>
 
   ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity_%26_Embedded_Systems-red?style=for-the-badge&logo=kalilinux&logoColor=white)
