@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/eIm657DwcItz1eDYbO/giphy.gif" width="100%" height="150" style="object-fit: cover;" alt="Matrix Rain" />
+ 
 
   <br />
   
   # Hi there, I'm Krish Gulati! 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...;Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+fusion1110...; Loading+Cybersecurity+Modules...;Target:+Hardware+Hacking+%26+Embedded+Systems;Status:+Running+Arch+Linux" alt="Typing SVG" />
   </a>
 
   <br/>
