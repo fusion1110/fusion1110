@@ -21,14 +21,6 @@ I'm an engineering student obsessed with where **Cybersecurity** meets custom **
 * ⚡ **Fun fact:** Building my own home-lab cloud—because the real cloud is just someone else's expensive computer.
 ---
 
-### 🚀 Digital Creations & Hardware Havoc
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **SentryMesh** | The neighborhood watch program for your Wi-Fi, built on an ESP-NOW mesh. **It flags unknowns and tells them to get off its lawn.** | `ESP32` `C++` `Networking` |
-| **SecureMeshConnect** | When the cell towers drop, this encrypted, off-grid Android mesh network keeps the signal flowing. **It's the ultimate digital bunker.** | `Java` `Android SDK` `Cryptography` |
-| **ESP32 HID Emulator** | A tiny, innocent-looking USB device that acts like a human who only types malicious code. **The ultimate digital prankster (for security testing).** | `C++` `HID` `Penetration Testing` |
-| **Home NAS** | A centralized server built on a Raspberry Pi and OMV. **Where data goes to hibernate and never get lost.** | `Raspberry Pi` `Linux` `OMV` |
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
