@@ -8,20 +8,18 @@
   ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
+---
+### About Me
 
+I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets. 
+
+* **Interests:** Offensive Security, Hardware Hacking, Linux, and Low-Level Engineering.
+* **Current Mode:** Writing C/C++ that talks directly to hardware and messing with HID emulation.
+* **OS of Choice:** I break things on Arch just to see how they work.
+* **Fun fact:** I built my own Home NAS because "the cloud" is just someone else's computer.
 ---
 
-### 👨‍💻 My Digital Sandbox
-
-I'm an engineering student obsessed with where **Cybersecurity** meets custom **Hardware**. I live in the low-level trenches, focusing on breaking things to understand how they work (and then rebuilding them securely).
-
-* 🔭 **In Progress:** Wrangling wireless protocols for **SentryMesh** and building encrypted networks (**SecureMeshConnect**).
-* 🎯 **Specializing In:** **Red Teaming**, **Kernel Development**, and making life miserable for poorly secured **IoT** devices.
-* 🐧 **Home Base:** Arch (BTW!)
-* ⚡ **Fun fact:** Building my own home-lab cloud—because the real cloud is just someone else's expensive computer.
----
-
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -49,7 +47,7 @@ I'm an engineering student obsessed with where **Cybersecurity** meets custom **
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -61,7 +59,7 @@ I'm an engineering student obsessed with where **Cybersecurity** meets custom **
 ---
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fusion1110&show_icons=true&theme=radical&count_private=true" height="150" alt="Krish Gulati's GitHub Stats" />
@@ -74,7 +72,7 @@ I'm an engineering student obsessed with where **Cybersecurity** meets custom **
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-gulati-560997276/" target="_blank">
