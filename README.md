@@ -64,7 +64,7 @@ I'm an IT undergrad who loves exploring the chaotic space where **software meets
 
 ### Through the Lens
 
-When I'm not debugging kernel panics or analyzing packets, I’m usually behind my camera.
+I enjoy exploring the world through photography, with a particular focus on macro details and wildlife.
 
 <div align="center">
   <a href="https://www.pexels.com/@krish-gulati-437523990/gallery/" target="_blank">
