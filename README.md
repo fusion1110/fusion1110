@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a final-year IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets.
+I'm an IT undergrad who loves exploring the chaotic space where **software meets soldering irons**. If it connects to a network, I probably want to analyze its packets.
 
 * **Interests:** Offensive Security, Hardware Hacking, Linux, and Low-Level Engineering.
 * **Current Mode:** Writing C/C++ that talks directly to hardware and messing with HID emulation.
@@ -62,6 +62,18 @@ I'm a final-year IT undergrad who loves exploring the chaotic space where **soft
 | **SecureMeshConnect** | A resilient, encrypted Android mesh network using Wi-Fi Direct and Bluetooth for off-grid communication. | `Java` `Android SDK` `Cryptography` |
 | **ESP32 HID Emulator** | A **BadUSB-style platform** using ESP32-S2 to emulate HID keyboards for keystroke injection and security testing. | `C++` `HID` `Penetration Testing` |
 | **Home NAS** | A centralized storage & media server with automated backups built on OpenMediaVault. | `Raspberry Pi` `Linux` `OMV` |
+
+---
+
+### Through the Lens
+
+When I'm not debugging kernel panics or analyzing packets, I’m usually behind my camera.
+
+<div align="center">
+  <a href="https://www.pexels.com/@krish-gulati-437523990/gallery/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels Portfolio" />
+  </a>
+</div>
 
 ---
 
